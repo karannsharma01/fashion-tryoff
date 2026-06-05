@@ -1,7 +1,7 @@
 # Fashion Try-Off
 
 This repository contains a robust local FastAPI server (`tryoff.py`) that utilizes `Qwen2-VL-2B-Instruct` for garment attribute detection, `YOLO` for bounding box extraction, and `FLUX.2-klein-4B` for virtual try-off image generation.
-
+ 
 ## Features
 - **POST /process**: Takes an image URL, downloads the image, and then:
   1. Detects garment attributes (category, color, fit, etc.) using Qwen2-VL.
