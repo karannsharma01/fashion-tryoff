@@ -9,7 +9,6 @@ def run_inference():
     payload = {
         "image_url": TEST_IMAGE_URL
     }
-
     print("Starting Dripi Fashion API Test")
     print(f"Endpoint: {API_URL}")
     print(f"Image:   {TEST_IMAGE_URL}")
