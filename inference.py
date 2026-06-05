@@ -1,7 +1,7 @@
 import requests
 import json
 import time
-
+ 
 API_URL = "http://127.0.0.1:8080/process"
 TEST_IMAGE_URL = "https://images.pexels.com/photos/15869955/pexels-photo-15869955.jpeg"
 
