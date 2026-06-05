@@ -36,6 +36,9 @@ When you run `inference.py` with a test image URL, the script will output the de
 
 ### Example Output
 
+<img width="628" height="421" alt="Screenshot 2026-06-05 184650" src="https://github.com/user-attachments/assets/289c874d-60ca-4a0e-9b8e-42253c278181" />
+<img width="611" height="424" alt="Screenshot 2026-06-05 184641" src="https://github.com/user-attachments/assets/cb2551c0-a355-435e-9057-4f30aa102f1a" />
+
 ```text
 Starting Dripi Fashion API Test
 Endpoint: http://127.0.0.1:8080/process
