@@ -148,7 +148,6 @@ async def process_image(request: ImageRequest):
             print(f"FLUX Error: {e}")
 
     torch.cuda.empty_cache()
-
     return {
         "status": "success",
         "attributes": attributes,
